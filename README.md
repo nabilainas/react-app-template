@@ -1,2 +1,4 @@
-# react-app-template
-Template for a react app with dependencies
+# Getting Started with This Create React App Template
+
+Run npm install && npm start
+
